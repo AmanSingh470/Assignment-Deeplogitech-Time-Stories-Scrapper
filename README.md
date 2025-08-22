@@ -81,9 +81,9 @@ Or simply open the URL in your browser.
 ## **Example Output**
 
 ### Server Log
-<img width="600" alt="output1" src="https://github.com/user-attachments/assets/eee6b6d7-7b8a-4647-a86d-06cbfd85853e" />
+<img width="600" alt="server log" src="https://github.com/user-attachments/assets/413c48a7-8ab0-4fd2-bfa5-d3ed10da3656" />
 
 ### JSON Response
-<img width="700" alt="output2" src="https://github.com/user-attachments/assets/f5d59fbc-3d3f-4e7a-a317-91381b7d1f09"/>
+<img width="700" alt="json response" src="https://github.com/user-attachments/assets/413c48a7-8ab0-4fd2-bfa5-d3ed10da3656"/>
 
 
