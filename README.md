@@ -84,6 +84,4 @@ Or simply open the URL in your browser.
 <img width="600" alt="server log" src="https://github.com/user-attachments/assets/413c48a7-8ab0-4fd2-bfa5-d3ed10da3656" />
 
 ### JSON Response
-<img width="700" alt="json response" src="https://github.com/user-attachments/assets/413c48a7-8ab0-4fd2-bfa5-d3ed10da3656"/>
-
-
+<img width="700" alt="json response" src="https://github.com/user-attachments/assets/4c290471-fcb9-4465-86ad-4ee2254414e5"/>
